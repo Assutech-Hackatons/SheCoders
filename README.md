@@ -14,7 +14,7 @@ Design and develop a simple bidding app that allows users to bid on items and co
 
 2. Functionality: The app should allow users to bid on items, with the highest bidder winning the item.
 
-3. Compatibility: The app should be compatible with either an iOS or Android platforms.
+3. Compatibility: The app should be optimized either web or mobile devices(OS or Android platforms).
 
 4. Innovation: The app should have some unique features that set it apart from other bidding apps, such as a feature to suggest items for bidding or a feature to set up bidding groups.
 

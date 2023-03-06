@@ -2,6 +2,10 @@
 
 Testing aspiring coders, for an internship opportunity at Assutech
 
+#Who is participating
+
+Members of Tech4AllGambia
+
 
 # Challenge:
 
@@ -33,4 +37,6 @@ The code must be well-structured, documented, and easy to understand.
 
 
 
+# Thanks for participation
 
+For more enquiries reach out via fatou@assutech.gm or tijan@assutech.gm

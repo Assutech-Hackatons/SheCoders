@@ -27,7 +27,7 @@ Design and develop a simple bidding app that allows users to bid on items and co
 # Submission Guidelines:
 
 Create a GitHub repository for your project and submit the link along with a demo video of the app in action.
-Include a README file in your repository with instructions on how to run the app locally.
+Include a README file in your repository with instructions on how to run the app locally, including your full name as the developer.
 The code must be well-structured, documented, and easy to understand.
 
 
